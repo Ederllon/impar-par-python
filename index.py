@@ -4,7 +4,7 @@ def analise():
         print('Seu Número é par!')
     else:
         print('Seu Número é impar!')
-
+        
 analise()
 
 
